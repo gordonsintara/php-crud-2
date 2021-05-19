@@ -14,7 +14,7 @@ class Category{
         $this->name = $row['name'];
     }
  
-    // database connection and table name
+    // database connection and table nam
     private $conn;
     private $table_name = "categories";
  
